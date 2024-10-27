@@ -1,1 +1,57 @@
 "# Coffee Sales Dashboard" 
+This project is a Coffee Sales Dashboard created in Excel. The dashboard enables you to track, analyze, and filter sales data based on various criteria. It was designed to help understand and make decisions with sales data more effectively.
+
+
+Features Used in the Project
+To create this dashboard, several functionalities and features of Excel were used:
+
+- XLOOKUP – Used to perform precise searches and retrieve results for various data.
+- INDEX and MATCH Functions – Allows for more flexible data lookup and retrieval according to multiple conditions.
+- Multiple IF Functions – Several IF functions were used to analyze data according to various conditions.
+- Date Formatting – Formats dates in the desired layout.
+- Number Formatting – Enhances readability by formatting financial and sales values.
+- Convert Range to Table – Turns data into a table for easier analysis and formatting.
+- Pivot Tables and Pivot Charts – Used to analyze data in depth and present it with charts.
+- Insert Timeline – Adds a date field filter to simplify time-based analysis.
+- Insert Slicers – Allows data filtering across different categories with ease.
+
+_______________________________________________________________________________________
+
+Core Functionalities of the Dashboard
+The dashboard is structured to make data analysis visually accessible and easy to use. Key elements include:
+
+- Pivot Tables: Enables analysis of sales data by various criteria, such as date, product, and region.
+- Pivot Charts: Adds visual representation of sales data through charts.
+- Timeline and Slicers: Allows for filtering data by selecting a date range or various categories.
+
+
+________________________________________________________________________________________
+
+How to Use
+Download and open the Excel file.
+
+- Use the Timeline and Slicers on the dashboard to select a date range or product category.
+- Pivot Tables and Pivot Charts will automatically update based on the selected filter.
+- Various data analyses created with XLOOKUP, INDEX-MATCH, and IF functions are also available with several buttons.
+
+
+___________________________________________________________________________________________
+
+File Directory Information
+You can find the related files for this project in the GitHub repository:
+
+- CoffeeSalesDashboard.xlsx: Excel file containing the dashboard and table functionalities.
+- README.md: General information and usage instructions for the project.
+
+
+
+
+
+
+
+
+
+
+
+
+
